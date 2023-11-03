@@ -1,0 +1,3 @@
+D:/cst2550/lab6/cube-func/cmake-build-debug/CMakeFiles/cube_func.dir
+D:/cst2550/lab6/cube-func/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cst2550/lab6/cube-func/cmake-build-debug/CMakeFiles/rebuild_cache.dir
