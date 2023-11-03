@@ -1,0 +1,19 @@
+# ninja log v5
+0	424	7200991261341823	CMakeFiles/gradestats.dir/main.cpp.obj	b642fd0097effd50
+438	546	7200991262508667	gradestats.exe	f99dd4a38460f47e
+2	962	7200999392962227	CMakeFiles/gradestats.dir/main.cpp.obj	b642fd0097effd50
+962	1142	7200999394738580	gradestats.exe	f99dd4a38460f47e
+2	438	7200999561443304	CMakeFiles/gradestats.dir/main.cpp.obj	b642fd0097effd50
+438	540	7200999562420688	gradestats.exe	f99dd4a38460f47e
+3	549	7201000482645545	CMakeFiles/gradestats.dir/main.cpp.obj	b642fd0097effd50
+549	713	7201000484263486	gradestats.exe	f99dd4a38460f47e
+2	478	7201003954320788	CMakeFiles/gradestats.dir/main.cpp.obj	b642fd0097effd50
+479	650	7201003956008627	gradestats.exe	f99dd4a38460f47e
+3	413	7201007567656214	CMakeFiles/gradestats.dir/main.cpp.obj	b642fd0097effd50
+415	516	7201007568643556	gradestats.exe	f99dd4a38460f47e
+2	401	7201008999930063	CMakeFiles/gradestats.dir/main.cpp.obj	b642fd0097effd50
+402	500	7201009000878003	gradestats.exe	f99dd4a38460f47e
+2	399	7201010033112926	CMakeFiles/gradestats.dir/main.cpp.obj	b642fd0097effd50
+399	496	7201010034050738	gradestats.exe	f99dd4a38460f47e
+3	400	7201010226797290	CMakeFiles/gradestats.dir/main.cpp.obj	b642fd0097effd50
+401	501	7201010227774684	gradestats.exe	f99dd4a38460f47e

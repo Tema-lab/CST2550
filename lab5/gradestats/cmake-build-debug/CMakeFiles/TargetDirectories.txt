@@ -1,0 +1,3 @@
+D:/c-arrays/arrays-c/gradestats/cmake-build-debug/CMakeFiles/gradestats.dir
+D:/c-arrays/arrays-c/gradestats/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c-arrays/arrays-c/gradestats/cmake-build-debug/CMakeFiles/rebuild_cache.dir

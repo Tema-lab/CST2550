@@ -1,0 +1,3 @@
+D:/c-arrays/arrays-c/primes/cmake-build-debug/CMakeFiles/primes.dir
+D:/c-arrays/arrays-c/primes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c-arrays/arrays-c/primes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

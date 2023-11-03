@@ -1,0 +1,11 @@
+# ninja log v5
+1	1244	7200978490138811	CMakeFiles/sumrange.dir/main.cpp.obj	5b995b9d2d0f0b2d
+1246	1946	7200978497113302	sumrange.exe	746ecbe93cb4c96e
+2	1686	7200981185034183	CMakeFiles/sumrange.dir/main.cpp.obj	5b995b9d2d0f0b2d
+1686	2370	7200981191841835	sumrange.exe	746ecbe93cb4c96e
+2	1283	7200983415264009	CMakeFiles/sumrange.dir/main.cpp.obj	5b995b9d2d0f0b2d
+1284	2164	7200983424029660	sumrange.exe	746ecbe93cb4c96e
+2	477	7200983550996356	CMakeFiles/sumrange.dir/main.cpp.obj	5b995b9d2d0f0b2d
+478	576	7200983551948249	sumrange.exe	746ecbe93cb4c96e
+2	453	7200983631022055	CMakeFiles/sumrange.dir/main.cpp.obj	5b995b9d2d0f0b2d
+453	545	7200983631919346	sumrange.exe	746ecbe93cb4c96e
