@@ -1,0 +1,3 @@
+D:/cst2550/lab6/printArr/cmake-build-debug/CMakeFiles/printArr.dir
+D:/cst2550/lab6/printArr/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cst2550/lab6/printArr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
