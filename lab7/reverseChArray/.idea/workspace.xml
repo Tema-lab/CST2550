@@ -5,7 +5,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="printPointers" targetName="printPointers" />
+      <config projectName="reverseChArray" targetName="reverseChArray" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -14,7 +14,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4a98323-d4e8-4b98-86a5-11089d268d00" name="Changes" comment="" />
+    <list default="true" id="75fe872b-1180-4609-97af-3ad21ce25da8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/reverseChArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../printPointers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../printPointers/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +41,7 @@
     <option name="majorVersion" value="2022" />
     <option name="minorVersion" value="1.3" />
   </component>
-  <component name="ProjectId" id="2XyhoNIW13MkNX4hOts6IYLlCwi" />
+  <component name="ProjectId" id="2XyioNutnouuPennDj1E0lYvTFL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -54,7 +60,7 @@
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printPointers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="printPointers" TARGET_NAME="printPointers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="printPointers" RUN_TARGET_NAME="printPointers">
+    <configuration name="reverseChArray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="reverseChArray" TARGET_NAME="reverseChArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="reverseChArray" RUN_TARGET_NAME="reverseChArray">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -63,12 +69,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a4a98323-d4e8-4b98-86a5-11089d268d00" name="Changes" comment="" />
-      <created>1699607400631</created>
+      <changelist id="75fe872b-1180-4609-97af-3ad21ce25da8" name="Changes" comment="" />
+      <created>1699607893961</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699607400631</updated>
-      <workItem from="1699607404225" duration="484000" />
+      <updated>1699607893961</updated>
+      <workItem from="1699607895532" duration="3400000" />
     </task>
     <servers />
   </component>
