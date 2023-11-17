@@ -1,0 +1,3 @@
+D:/Uni/CST2550/CST2550/lab6/args/cmake-build-debug/CMakeFiles/args.dir
+D:/Uni/CST2550/CST2550/lab6/args/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Uni/CST2550/CST2550/lab6/args/cmake-build-debug/CMakeFiles/rebuild_cache.dir

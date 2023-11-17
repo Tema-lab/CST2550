@@ -1,0 +1,3 @@
+D:/home-coding/c-practice/shapes/cmake-build-debug/CMakeFiles/shapes.dir
+D:/home-coding/c-practice/shapes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/home-coding/c-practice/shapes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
