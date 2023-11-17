@@ -1,0 +1,3 @@
+D:/cst2550/lab7/dynamicArr/cmake-build-debug/CMakeFiles/dynamicArr.dir
+D:/cst2550/lab7/dynamicArr/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cst2550/lab7/dynamicArr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
