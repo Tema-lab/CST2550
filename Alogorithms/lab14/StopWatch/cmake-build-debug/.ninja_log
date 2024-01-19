@@ -1,0 +1,11 @@
+# ninja log v5
+2	562	7273603409387795	CMakeFiles/StopWatch.dir/main.cpp.obj	a5ec1d0650699b05
+1	1160	7273604229340559	build.ninja	ec58d7dbcdfc1e3f
+2	611	7273604236312684	CMakeFiles/StopWatch.dir/Stopwatch.cpp.obj	e5b5b7a2d367122e
+611	755	7273604237716614	StopWatch.exe	eb15611807fa1d0f
+2	473	7273604847837224	CMakeFiles/StopWatch.dir/main.cpp.obj	a5ec1d0650699b05
+473	661	7273604849683063	StopWatch.exe	eb15611807fa1d0f
+2	362	7273605235039036	CMakeFiles/StopWatch.dir/main.cpp.obj	a5ec1d0650699b05
+363	478	7273605236153660	StopWatch.exe	eb15611807fa1d0f
+3	353	7273605601594566	CMakeFiles/StopWatch.dir/main.cpp.obj	a5ec1d0650699b05
+353	440	7273605602442295	StopWatch.exe	eb15611807fa1d0f

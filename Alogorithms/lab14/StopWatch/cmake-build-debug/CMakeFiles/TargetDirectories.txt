@@ -1,0 +1,3 @@
+D:/cst2550/Alogorithms/lab14/StopWatch/cmake-build-debug/CMakeFiles/StopWatch.dir
+D:/cst2550/Alogorithms/lab14/StopWatch/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cst2550/Alogorithms/lab14/StopWatch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
