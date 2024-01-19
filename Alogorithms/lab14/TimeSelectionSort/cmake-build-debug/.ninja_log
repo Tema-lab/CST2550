@@ -1,0 +1,10 @@
+# ninja log v5
+1	1115	7273628145262763	CMakeFiles/TimeSelectionSort.dir/main.cpp.obj	63da2becc1b9825
+1	428	7273628668717574	build.ninja	f2a74df25ddf3ccd
+2	450	7273628673863798	CMakeFiles/TimeSelectionSort.dir/main.cpp.obj	63da2becc1b9825
+5	498	7273628674342852	CMakeFiles/TimeSelectionSort.dir/Stopwatch.cpp.obj	5a6eba2e2951f408
+498	600	7273628675339865	TimeSelectionSort.exe	8abf515e6aa083c6
+2	410	7273628854537116	CMakeFiles/TimeSelectionSort.dir/main.cpp.obj	63da2becc1b9825
+410	507	7273628855474282	TimeSelectionSort.exe	8abf515e6aa083c6
+6	836	7273629485977830	CMakeFiles/TimeSelectionSort.dir/main.cpp.obj	63da2becc1b9825
+837	1048	7273629488055315	TimeSelectionSort.exe	8abf515e6aa083c6
